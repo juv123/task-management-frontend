@@ -26,7 +26,7 @@ php artisan serve
 ________________________________________
 📌 Frontend (React)
 1️⃣ Clone the repository:
-git clone https://github.com/your-username/task-management-ui.git
+git clone https://github.com/juv123/task-management-frontend.git
 cd task-management-ui
 2️⃣ Install dependencies:
 npm install
